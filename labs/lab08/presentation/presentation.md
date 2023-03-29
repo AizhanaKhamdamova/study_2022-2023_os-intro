@@ -1,8 +1,8 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Структура научной презентации
-subtitle: Простейший шаблон
+title: Лабораторная работа № 8
+subtitle: Текстовый редактор Vi
 author:
  - Хамадмова А. А.
 institute:
